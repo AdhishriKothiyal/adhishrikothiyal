@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there: Welcome 👋
 
 <!--
 **AdhishriKothiyal/AdhishriKothiyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 💫 About Me:
+# About Me:
 🔭 Currently working on something cool enough to keep you interested<br>⚡ Fun fact: Co-founder @ Stealth<br>🌱 Currently Coding, Building and Securing 
 
 

@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # About Me:
-🔭 Currently working on something cool enough to keep you interested<br>⚡ Fun fact: Co-founder @ Stealth<br>🌱 Currently Coding, Building and Securing 
+🔭 Currently working on something cool enough to keep you interested<br>⚡️ Fun fact: Co-founder @ Stealth<br>🌱 Currently Coding, Building and Securing 
 
 
 ## 🌐 Socials:

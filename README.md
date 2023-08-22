@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # About Me:
-🔭 Currently working on something cool enough to keep you interested<br>⚡️ Fun fact: Co-founder @ Stealth<br>:neckbeard: Currently Coding, Building and Securing 
+🔭 Currently working on something cool enough to keep you interested<br>⚡️ Fun fact: Co-founder @ Stealth (We are pet-friendly:dog::fish::cat:)<br>:neckbeard: Currently Coding, Building and Securing 
 
 
 ## 🌐 Socials:
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
+# :bowtie: GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AdhishriKothiyal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdhishriKothiyal&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdhishriKothiyal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)

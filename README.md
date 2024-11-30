@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## Playing Now @ Spotify 🎧
 &nbsp;<div align="left">
-  [![Spotify](https://novatorem-bice-gamma.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/b8utx49rfe28jfwpv7blm4iyp)
+[![Spotify](https://novatorem-bice-gamma.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/b8utx49rfe28jfwpv7blm4iyp)
 </div>
 
 
